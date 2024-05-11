@@ -5,10 +5,10 @@
 
 
 <div align="center">
-  <h1> WELCOME TO MY PROFILE</h1> 
+  <h2> Wwlcome to my profile</h2> 
 </div>
 
-#### I am Md Amzamul Haque, a professional web developer with a passion for creating amazing experiences. I'm from Bangladesh
+#### I am Amzam, a web application developer and love to create amazing and chalengeable projects. I am from Bangladesh.
 
 
 
