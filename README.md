@@ -8,7 +8,8 @@
   <h2> Wwlcome to my profile</h2> 
 </div>
 
-#### I am Amzam, a web application developer and love to create amazing and chalengeable projects. I am from Bangladesh.
+#### I am Amzam, a web application developer and love to create amazing and chalengeable projects. 
+I am from Bangladesh.
 
 
 
