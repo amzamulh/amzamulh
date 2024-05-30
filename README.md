@@ -14,12 +14,12 @@
 <div >
    <h3>Technical Skills:</h3>
   <ul>
-    <li style="list-style: none">🤹🏻‍♀️ Languages: JavaScript (ES6+), PHP Frameworks/Libraries: Node.js, Express.js, React,     Next.js, Redux (Redux-tookit), Laravel</li>
-    <li style="list-style: none">🤹🏻‍♀️ Databases: MongoDB, MySQL, PostgreSQL </li>
-    <li style="list-style: none">🤹🏻‍♀️ ORM: Sequelize, Prisma </li>
-    <li style="list-style: none">🤹🏻‍♀️ Testing: Jest </li>
-    <li style="list-style: none">🤹🏻‍♀️ Tools: Git, Docker, Notion, draw.io</li>
-    <li style="list-style: none">🤹🏻‍♀️ Cloud Platforms: Google Cloud Platform | Amazon Web Services (AWS) </li>
-    <li style="list-style: none">🤹🏻‍♀️ Others: RESTful API, WebSockets, Socket.IO, Postman, Swagger(OAS) </li>
+    <li> Languages: JavaScript (ES6+), PHP Frameworks/Libraries: Node.js, Express.js, React,     Next.js, Redux (Redux-tookit), Laravel</li>
+    <li> Databases: MongoDB, MySQL, PostgreSQL </li>
+    <li> ORM: Sequelize, Prisma </li>
+    <li> Testing: Jest </li>
+    <li> Tools: Git, Docker, Notion, draw.io</li>
+    <li> Cloud Platforms: Google Cloud Platform | Amazon Web Services (AWS) </li>
+    <li> Others: RESTful API, WebSockets, Socket.IO, Postman, Swagger(OAS) </li>
   </ul> 
 </div>
