@@ -10,16 +10,16 @@
 
 #### I am Amzam, a web application developer and love to create amazing and chalengeable projects. I am from Bangladesh.My expertise is in building scalable, efficient, and high-performing web applications.
 
-### Technical Skills:
 
-#### 🤹🏻‍♀️ Languages: JavaScript (ES6+), PHP Frameworks/Libraries: Node.js, Express.js, React,     Next.js, Redux (Redux-tookit), Laravel 
-#### 🤹🏻‍♀️ Databases: MongoDB, MySQL, PostgreSQL 
-#### 🤹🏻‍♀️ ORM: Sequelize, Prisma 
-#### 🤹🏻‍♀️ Testing: Jest 
-#### 🤹🏻‍♀️ Tools: Git, Docker, Notion, draw.io 
-#### 🤹🏻‍♀️ Cloud Platforms: Google Cloud Platform | Amazon Web Services (AWS) 
-#### 🤹🏻‍♀️ Other: RESTful API, WebSockets, Socket.IO, Postman, Swagger(OAS)
-
-
-
-
+<div >
+   <h3>Technical Skills:</h3>
+  <ul>
+    <li style="list-style: none">🤹🏻‍♀️ Languages: JavaScript (ES6+), PHP Frameworks/Libraries: Node.js, Express.js, React,     Next.js, Redux (Redux-tookit), Laravel</li>
+    <li style="list-style: none">🤹🏻‍♀️ Databases: MongoDB, MySQL, PostgreSQL </li>
+    <li style="list-style: none">🤹🏻‍♀️ ORM: Sequelize, Prisma </li>
+    <li style="list-style: none">🤹🏻‍♀️ Testing: Jest </li>
+    <li style="list-style: none">🤹🏻‍♀️ Tools: Git, Docker, Notion, draw.io</li>
+    <li style="list-style: none">🤹🏻‍♀️ Cloud Platforms: Google Cloud Platform | Amazon Web Services (AWS) </li>
+    <li style="list-style: none">🤹🏻‍♀️ Others: RESTful API, WebSockets, Socket.IO, Postman, Swagger(OAS) </li>
+  </ul> 
+</div>
