@@ -16,6 +16,6 @@
   💻 Databases: MongoDB, MySQL, PostgreSQL <br/>
   😲 ORM: Sequelize, Prisma <br/>
   🤷‍♂️ Testing: Jest <br/>
-  🥏 Tools: Git, Docker, Notion, draw.io <br/>
+  🧰 Tools: Git, Docker, Notion, draw.io <br/>
   ☁️ Cloud Platforms: Google Cloud Platform | Amazon Web Services (AWS) <br/>
   💖 Other: RESTful API, WebSockets, Socket.IO, Postman, Swagger(OAS)<br/>
