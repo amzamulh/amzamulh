@@ -10,16 +10,12 @@
 
 #### I am Amzam, a web application developer and love to create amazing and chalengeable projects. I am from Bangladesh.My expertise is in building scalable, efficient, and high-performing web applications.
 
+### Technical Skills:
 
-<div >
-   <h3>Technical Skills:</h3>
-  <ul>
-    <li> Languages: JavaScript (ES6+), PHP Frameworks/Libraries: Node.js, Express.js, React,     Next.js, Redux (Redux-tookit), Laravel</li>
-    <li> Databases: MongoDB, MySQL, PostgreSQL </li>
-    <li> ORM: Sequelize, Prisma </li>
-    <li> Testing: Jest </li>
-    <li> Tools: Git, Docker, Notion, draw.io</li>
-    <li> Cloud Platforms: Google Cloud Platform | Amazon Web Services (AWS) </li>
-    <li> Others: RESTful API, WebSockets, Socket.IO, Postman, Swagger(OAS) </li>
-  </ul> 
-</div>
+🤹🏻‍♀️ Languages: JavaScript (ES6+), PHP Frameworks/Libraries: Node.js, Express.js, React,     Next.js, Redux (Redux-tookit), Laravel <br/>
+🤹🏻‍♀️ Databases: MongoDB, MySQL, PostgreSQL <br/>
+🤹🏻‍♀️ ORM: Sequelize, Prisma <br/>
+🤹🏻‍♀️ Testing: Jest <br/>
+🤹🏻‍♀️ Tools: Git, Docker, Notion, draw.io <br/>
+🤹🏻‍♀️ Cloud Platforms: Google Cloud Platform | Amazon Web Services (AWS) <br/>
+🤹🏻‍♀️ Other: RESTful API, WebSockets, Socket.IO, Postman, Swagger(OAS)<br/>
