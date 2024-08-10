@@ -12,7 +12,7 @@
 
 ### 🧑‍💻 Technical Skills:
 
-  ❤️ Languages: JavaScript (ES6+), PHP
+  ❤️ Languages: JavaScript (ES6+), PHP  <br/>
   🎁 Frameworks/Libraries: Node.js, Express.js, React, Next.js, Redux (Redux-tookit), Laravel <br/>
   💻 Databases: MongoDB, MySQL, PostgreSQL <br/>
   😲 ORM: Sequelize, Prisma <br/>
