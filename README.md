@@ -1,4 +1,4 @@
-![Web Developer]([https://drive.google.com/uc?id=1_gVpgRlOZM3foZvQj5QBOB-bY_PfpCnl)
+![Web Developer](https://drive.google.com/uc?export=view&id=1_gVpgRlOZM3foZvQj5QBOB-bY_PfpCnl)
 
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/tipu.shoultan) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amzamul-haque/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/enzam.webdeveloper)  [![Twitter Badge](https://img.shields.io/badge/Twitter-14171A?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ahaquebd12) 
