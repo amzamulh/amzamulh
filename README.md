@@ -12,7 +12,8 @@
 
 ### 🧑‍💻 Technical Skills:
 
-  ❤️ Languages: JavaScript (ES6+), PHP Frameworks/Libraries: Node.js, Express.js, React,     Next.js, Redux (Redux-tookit), Laravel <br/>
+  ❤️ Languages: JavaScript (ES6+), PHP
+  🎁 Frameworks/Libraries: Node.js, Express.js, React, Next.js, Redux (Redux-tookit), Laravel <br/>
   💻 Databases: MongoDB, MySQL, PostgreSQL <br/>
   😲 ORM: Sequelize, Prisma <br/>
   🤷‍♂️ Testing: Jest <br/>
