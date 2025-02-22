@@ -12,11 +12,11 @@
 
 ### 🧑‍💻 Technical Skills:
 
-  ❤️ Languages: JavaScript (ES6+), PHP  <br/>
+  ❤️ Languages: JavaScript (ES6+), TypeScript, PHP  <br/>
   🎁 Frameworks/Libraries: Node.js, Express.js, React, Next.js, Redux (Redux-tookit), Laravel <br/>
   💻 Databases: MongoDB, MySQL, PostgreSQL <br/>
   😲 ORM: Sequelize, Prisma <br/>
   🤷‍♂️ Testing: Jest <br/>
-  🧰 Tools: Git, Docker, Notion, draw.io <br/>
+  🧰 Tools: Git, Github, Storybook, Docker, Notion, draw.io <br/>
   ☁️ Cloud Platforms: Google Cloud Platform | Amazon Web Services (AWS) <br/>
   💖 Other: RESTful API, WebSockets, Socket.IO, Postman, Swagger(OAS)<br/>
