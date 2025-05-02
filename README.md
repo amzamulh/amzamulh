@@ -8,7 +8,7 @@
   <h2> Welcome to my profile</h2> 
 </div>
 
-#### I am Amzam, a web application developer and love to create amazing and chalengeable projects. I am from Bangladesh. My expertise is in building scalable, efficient, and high-performing web applications.
+#### Hi, I am Amzamul Haque from Bangladesh.Experienced Full-Stack Web Developer with over 5 years of expertise in designing, developing, and maintaining scalable web applications. Proficient in modern JavaScript frameworks including React, Next.js, and Node.js. Strong background in UI/UX design, API integration, and responsive design. Passionate about clean code, continuous learning, and remote collaboration.
 
 ### 🧑‍💻 Technical Skills:
 
@@ -19,4 +19,4 @@
   🤷‍♂️ Testing: Jest <br/>
   🧰 Tools: Git, Github, Storybook, Docker, Notion, draw.io <br/>
   ☁️ Cloud Platforms: Google Cloud Platform | Amazon Web Services (AWS) <br/>
-  💖 Other: RESTful API, WebSockets, Socket.IO, Postman, Swagger(OAS)<br/>
+  💖 RESTful APIs, WebSockets, Socket.IO, Postman, Swagger(OAS), Webpack, Vite, NPM, Yarn, cPanel<br/>
