@@ -74,7 +74,7 @@ I'm continuously improving my development skills through hands-on projects, prac
 
 ## Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/amzamulh](https://linkedin.com/in/amzamul-haque/)
+- **LinkedIn:** [linkedin.com/in/amzamul-haque](https://linkedin.com/in/amzamul-haque/)
 - **GitHub:** [github.com/amzamulh](https://github.com/amzamulh)
 
 ---
